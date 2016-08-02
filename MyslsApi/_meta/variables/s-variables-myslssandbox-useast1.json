@@ -1,0 +1,6 @@
+{
+  "region": "us-east-1",
+  "resourcesStackName": "MyslsApi-myslssandbox-r",
+  "iamRoleArnLambda": "arn:aws:iam::735723053299:role/MyslsApi-myslssandbox-r-IamRoleLambda-1XMTPH6B69XCI",
+  "apiGatewayApi": "MyslsApi"
+}
